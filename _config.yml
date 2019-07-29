@@ -79,5 +79,5 @@ theme: clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo:  https://github.com/gbuenzli/site-template
+  repo:  https://github.com/gbuenzli/twomealsinone
   branch:  gh-pages
